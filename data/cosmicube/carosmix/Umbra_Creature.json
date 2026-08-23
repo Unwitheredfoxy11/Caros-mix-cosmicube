@@ -1,0 +1,18 @@
+{
+  "type": "pet",
+  "price": "1000",
+
+  "title": "La Creatura",
+  "description": "cuidado con la creatura, puede llegar a morder.",
+  "hint": "wtf",
+
+  "node": {
+    "direction": "north",
+    "parent": "caros"
+  },
+  "color": [
+    161,
+    161,
+    161
+  ]
+}

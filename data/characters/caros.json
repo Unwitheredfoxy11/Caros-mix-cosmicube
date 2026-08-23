@@ -1,0 +1,257 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "rid"
+		},
+		{
+			"offsets": [
+				209,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "rle"
+		},
+		{
+			"offsets": [
+				43,
+				108
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "rup"
+		},
+		{
+			"offsets": [
+				-3,
+				-27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "rri"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				242,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "lmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-26
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "rmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				86
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "umiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				114,
+				-48
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "rdo"
+		},
+		{
+			"offsets": [
+				96,
+				-83
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "dmiss"
+		},
+		{
+			"offsets": [
+				-11,
+				40
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "hey",
+			"loop": false,
+			"name": "rvpose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CarosSpritemap",
+	"position": [
+		-80,
+		110
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {
+    "customMonotone": "caros-opponent",
+    "defeatRetro": "caros-old",
+    "ghost": true,
+	"customVocalsSuffix": "caros"
+  },
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "caros",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -11776,
+	"camera_position": [
+		90,
+		-70
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

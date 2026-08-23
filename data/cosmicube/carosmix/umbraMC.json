@@ -1,0 +1,13 @@
+{
+  "type": "speakerSkin",
+  "price": "750",
+
+  "title": "UmbraMC",
+  "hint": "son cubitos... No te la jales",
+  "description": "animar esto me tomó 2 horas.",
+
+  "node": {
+    "direction": "west",
+    "parent": "root"
+  }
+}

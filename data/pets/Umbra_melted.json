@@ -1,0 +1,20 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        0,
+        25
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Umbra dead idle"
+    }
+  ],
+  "scale": 0.5,
+  "position": [
+    0,
+    175
+  ]
+}

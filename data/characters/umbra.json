@@ -1,0 +1,250 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "id",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "id",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "le",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "do",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				6
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ri",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-39,
+				-85
+			],
+			"anim": "hairBlow",
+			"fps": 12,
+			"name": "blow",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				1
+			],
+			"anim": "hairFall",
+			"fps": 12,
+			"name": "fall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-2
+			],
+			"anim": "cheer",
+			"fps": 12,
+			"name": "vpose",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-23
+			],
+			"anim": "sad",
+			"fps": 12,
+			"name": "miss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/umbraSpritemap",
+	"position": [
+		100,
+		0
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "umbra",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -12040097,
+	"camera_position": [
+		-90,
+		100
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

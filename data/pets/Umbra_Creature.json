@@ -1,0 +1,26 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "fps": 12,
+      "anim": "pat",
+      "name": "pat"
+    },
+    {
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "name": "idle"
+    }
+  ],
+  "position": [
+		0,
+		0
+  ],
+  "scale": 1,
+  "flags": {
+    "variants": {
+      "boiling": "Umbra_melted"
+    }
+  }
+}

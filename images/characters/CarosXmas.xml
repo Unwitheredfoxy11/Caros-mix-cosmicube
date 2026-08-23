@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CarosXmas.png">
+<SubTexture name="CarosXmas idle0000" x="2579" y="2656" width="530" height="632" frameX="-483" frameY="-435" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas idle0001" x="3520" y="0" width="527" height="631" frameX="-486" frameY="-435" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas idle0002" x="514" y="2656" width="520" height="642" frameX="-489" frameY="-424" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas idle0003" x="2995" y="0" width="525" height="645" frameX="-488" frameY="-421" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas idle0004" x="1640" y="2003" width="528" height="647" frameX="-484" frameY="-419" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas le0000" x="1034" y="2656" width="515" height="641" frameX="-458" frameY="-426" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas le0001" x="2995" y="645" width="524" height="645" frameX="-461" frameY="-422" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas do0000" x="0" y="671" width="467" height="670" frameX="-484" frameY="-396" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas do0001" x="0" y="0" width="484" height="671" frameX="-483" frameY="-395" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas up0000" x="1452" y="0" width="490" height="664" frameX="-508" frameY="-402" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas up0001" x="0" y="1341" width="506" height="662" frameX="-503" frameY="-404" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas ri0000" x="1518" y="1341" width="563" height="658" frameX="-517" frameY="-409" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas ri0001" x="2432" y="1316" width="557" height="653" frameX="-517" frameY="-414" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas lmiss0000" x="1549" y="2656" width="515" height="641" frameX="-458" frameY="-426" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas lmiss0001" x="2995" y="1290" width="524" height="645" frameX="-461" frameY="-422" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas dmiss0000" x="467" y="671" width="467" height="670" frameX="-484" frameY="-396" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas dmiss0001" x="484" y="0" width="484" height="671" frameX="-483" frameY="-395" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas umiss0000" x="1452" y="664" width="490" height="664" frameX="-508" frameY="-402" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas umiss0001" x="506" y="1341" width="506" height="662" frameX="-503" frameY="-404" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas rmiss0000" x="2432" y="0" width="563" height="658" frameX="-517" frameY="-409" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas rmiss0001" x="0" y="2003" width="557" height="653" frameX="-517" frameY="-414" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0000" x="2064" y="2656" width="515" height="641" frameX="-458" frameY="-426" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0001" x="2995" y="1935" width="524" height="645" frameX="-461" frameY="-422" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0002" x="934" y="671" width="467" height="670" frameX="-484" frameY="-396" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0003" x="968" y="0" width="484" height="671" frameX="-483" frameY="-395" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0004" x="1942" y="0" width="490" height="664" frameX="-508" frameY="-402" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0005" x="1012" y="1341" width="506" height="662" frameX="-503" frameY="-404" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0006" x="2432" y="658" width="563" height="658" frameX="-517" frameY="-409" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas alt0007" x="557" y="2003" width="557" height="653" frameX="-517" frameY="-414" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas vpose0000" x="1114" y="2003" width="526" height="650" frameX="-486" frameY="-416" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas vpose0001" x="2168" y="2003" width="522" height="647" frameX="-491" frameY="-419" frameWidth="1500" frameHeight="1200" />
+<SubTexture name="CarosXmas vpose0002" x="0" y="2656" width="514" height="645" frameX="-495" frameY="-421" frameWidth="1500" frameHeight="1200" />
+</TextureAtlas>

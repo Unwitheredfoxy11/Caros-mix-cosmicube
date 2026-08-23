@@ -1,0 +1,13 @@
+{
+  "type": "speakerSkin",
+  "price": "500",
+
+  "title": "Umbra",
+  "hint": "riko... Digo, ¿qué?",
+  "description": "no la dejen cerca de Nowzuqsm.",
+
+  "node": {
+    "direction": "east",
+    "parent": "caros"
+  }
+}

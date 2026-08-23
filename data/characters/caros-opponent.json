@@ -1,0 +1,164 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "lid",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "lle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				111
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "lup",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "lri",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "ldo",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				36,
+				40
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "lvpose",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CarosSpritemap",
+	"position": [
+		-80,
+		110
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "caros",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -11776,
+	"camera_position": [
+		90,
+		-70
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

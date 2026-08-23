@@ -1,0 +1,56 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "speaker idle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "speaker idle",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UmbraSpeaker",
+	"position": [
+		-50,
+		-85
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "face",
+	"afterimages": false,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -12040097,
+	"camera_position": [
+		-348,
+		44
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6.1,
+	"scale": 0.4,
+	"_editor_isPlayer": true
+}

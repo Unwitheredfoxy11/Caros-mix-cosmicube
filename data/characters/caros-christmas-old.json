@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "idle",
+			"fps": 15,
+			"name": "CarosXmas idle",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "CarosXmas le",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "CarosXmas do",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 10,
+			"name": "CarosXmas up",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "CarosXmas ri",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 10,
+			"name": "CarosXmas lmiss",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 10,
+			"name": "CarosXmas dmiss",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 10,
+			"name": "CarosXmas umiss",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 10,
+			"name": "CarosXmas rmiss",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"anim": "hey",
+			"fps": 10,
+			"name": "CarosXmas vpose",
+			"indices": []
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"name": "CarosXmas alt2"
+		},
+		{
+			"offsets": [-5, 0],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"name": "CarosXmas alt4"
+		},
+		{
+			"offsets": [-5, 0],
+			"indices": [],
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "CarosXmas alt1"
+		},
+		{
+			"offsets": [-5, 0],
+			"indices": [],
+			"fps": 10,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "CarosXmas alt3"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CarosXmas",
+	"position": [-520, -210],
+	"healthicon": "caros",
+	"flip_x": true,
+	"healthbar_colors": [255, 210, 0],
+	"camera_position": [-60, 270],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}
