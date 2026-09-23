@@ -1,0 +1,75 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "bro died"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				48,
+				49
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "bro died"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				48,
+				49
+			],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "bro died"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/caros dead",
+	"position": [
+		-50,
+		358
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "caros",
+	"afterimages": true,
+	"gameover_character": "",
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -11776,
+	"camera_position": [
+		0,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 10,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

@@ -2,14 +2,13 @@
 	"pausePortrait": "",
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 12,
-			"name": "id",
+			"anim": "danceLeft",
 			"indices": [
 				0,
 				1,
@@ -21,17 +20,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "id"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 12,
-			"name": "id",
+			"anim": "danceRight",
 			"indices": [
 				10,
 				11,
@@ -43,17 +42,17 @@
 				17,
 				18,
 				19
-			]
+			],
+			"name": "id"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-28,
-				-2
+				0,
+				-1
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 12,
-			"name": "le",
+			"anim": "singLEFT",
 			"indices": [
 				0,
 				1,
@@ -65,17 +64,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "le"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-19,
+				0,
 				0
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "do",
 			"indices": [
 				0,
 				1,
@@ -87,17 +86,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "do"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-38,
-				6
+				0,
+				7
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "up",
 			"indices": [
 				0,
 				1,
@@ -109,17 +108,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-28,
-				-2
+				0,
+				-1
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singRIGHT",
-			"fps": 12,
-			"name": "ri",
 			"indices": [
 				0,
 				1,
@@ -131,17 +130,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "ri"
 		},
 		{
+			"offsets": [
+				148,
+				-50
+			],
 			"loop": true,
-			"offsets": [
-				-39,
-				-85
-			],
+			"fps": 12,
 			"anim": "hairBlow",
-			"fps": 12,
-			"name": "blow",
 			"indices": [
 				0,
 				1,
@@ -153,17 +152,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "blow"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-39,
-				1
+				69,
+				10
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "hairFall",
-			"fps": 12,
-			"name": "fall",
 			"indices": [
 				0,
 				1,
@@ -175,17 +174,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "fall"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-39,
-				-2
+				0,
+				-1
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "cheer",
-			"fps": 12,
-			"name": "vpose",
 			"indices": [
 				0,
 				1,
@@ -197,17 +196,17 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "vpose"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-12,
-				-23
+				0,
+				-6
 			],
-			"anim": "sad",
+			"loop": false,
 			"fps": 12,
-			"name": "miss",
+			"anim": "sad",
 			"indices": [
 				0,
 				1,
@@ -219,18 +218,23 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "miss"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/umbraSpritemap",
+	"image": "characters/umbraWithSpeaker",
 	"position": [
 		100,
-		0
+		-325
 	],
 	"dance_every": 1,
 	"gameover_intial_sound": null,
-	"flags": {},
+	"flags": {
+		"variants": {
+			"running": "umbra-danger"
+		}
+	},
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
 	"healthicon": "umbra",

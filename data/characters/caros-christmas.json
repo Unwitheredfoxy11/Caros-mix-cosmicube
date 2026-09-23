@@ -233,8 +233,10 @@
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"flags": {
-    "customMonotone": "caros-opponent",
-    "defeatRetro": "caros-christmas-old",
+	"variants": {
+		"monotone": "caros-opponent",
+		"retro": "caros-christmas-old"
+	},
     "ghost": true,
 	"customVocalsSuffix": "caros"
   },

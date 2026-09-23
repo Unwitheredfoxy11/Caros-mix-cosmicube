@@ -1,0 +1,13 @@
+{
+  "type": "playerSkin",
+  "price": "750",
+
+  "title": "UmbraMC jugable",
+  "hint": "Mine-Imator mi patrón",
+  "description": "fue más facíl de animar que la versión de speaker.",
+
+  "node": {
+    "direction": "south",
+    "parent": "umbraMC"
+  }
+}

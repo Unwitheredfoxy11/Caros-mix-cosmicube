@@ -1,0 +1,344 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				242,
+				2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "lmiss"
+		},
+		{
+			"offsets": [
+				-3,
+				-26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "rmiss"
+		},
+		{
+			"offsets": [
+				43,
+				86
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "umiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-83
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "dmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "idle",
+			"loop": false,
+			"name": "carid"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "carid"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "carid"
+		},
+		{
+			"offsets": [
+				114,
+				-48
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "cardo"
+		},
+		{
+			"offsets": [
+				114,
+				-48
+			],
+			"indices": [
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "cardo"
+		},
+		{
+			"offsets": [
+				209,
+				1
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "carle"
+		},
+		{
+			"offsets": [
+				209,
+				1
+			],
+			"indices": [
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "carle"
+		},
+		{
+			"offsets": [
+				-3,
+				-27
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "carri"
+		},
+		{
+			"offsets": [
+				-3,
+				-27
+			],
+			"indices": [
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "carri"
+		},
+		{
+			"offsets": [
+				43,
+				108
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUP",
+			"loop": false,
+			"name": "carup"
+		},
+		{
+			"offsets": [
+				43,
+				108
+			],
+			"indices": [
+				8,
+				9
+			],
+			"fps": 12,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "carup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CarosWind",
+	"position": [
+		-80,
+		110
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": "caros_loss_sfx",
+	"flags": {
+		"customVocalsSuffix": "caros"
+	},
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "caros",
+	"afterimages": true,
+	"gameover_character": "caros-dead",
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -11776,
+	"camera_position": [
+		90,
+		-70
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}
