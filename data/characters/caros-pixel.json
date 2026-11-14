@@ -1,0 +1,131 @@
+{
+  "pausePortrait": "",
+  "animations": [
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "idle",
+      "fps": 24,
+      "indices": [],
+      "name": "caros idle dance"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singLEFT",
+      "fps": 24,
+      "indices": [],
+      "name": "caros LEFT"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singDOWN",
+      "fps": 24,
+      "indices": [],
+      "name": "caros DOWN"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singUP",
+      "fps": 24,
+      "indices": [],
+      "name": "caros UP"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singRIGHT",
+      "fps": 24,
+      "indices": [],
+      "name": "caros RIGHT"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singLEFTmiss",
+      "fps": 24,
+      "indices": [],
+      "name": "caros missLEFT"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singDOWNmiss",
+      "fps": 24,
+      "indices": [],
+      "name": "caros missDOWN"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singUPmiss",
+      "fps": 24,
+      "indices": [],
+      "name": "caros missUP"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "anim": "singRIGHTmiss",
+      "fps": 24,
+      "indices": [],
+      "name": "caros missRIGHT"
+    }
+  ],
+  "no_antialiasing": true,
+  "image": "characters/pixel/Caros_pixel_ass_sets",
+  "position": [
+    0,
+    500
+  ],
+  "dance_every": 2,
+  "gameover_initial_sound": null,
+  "flags": {
+    "isPixel": true
+  },
+  "scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "caros-pixel",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": true,
+	"healthbar_colour": -1176,
+  "camera_position": [
+    0,
+    0
+  ],
+  "gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,41 @@
+{
+  "pausePortrait": "",
+  "animations": [
+  {
+    "offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "richard"
+		}
+  ],
+  "no_antialiasing": false,
+	"image": "characters/RICHARD WATTERSON (1)",
+	"position": [
+		-650,
+		-140
+	],
+  "dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "face",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -11776,
+	"camera_position": [
+		90,
+		-70
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

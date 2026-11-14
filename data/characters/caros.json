@@ -238,7 +238,8 @@
 		"variants": {
 			"monotone": "caros-opponent",
 			"retro": "caros-old",
-			"windy": "carosBlow"
+			"windy": "carosBlow",
+      "pixel": "caros-pixel"
 		}
 	},
 	"scalableOffsets": true,

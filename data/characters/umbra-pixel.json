@@ -1,0 +1,167 @@
+{
+  "pausePortrait": "",
+  "animations": [
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "danceRight",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Umbra idle dance"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "danceLeft",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Umbra idle dance"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "danceRight-left",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Umbra alt idle dance"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "danceLeft-left",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Umbra alt idle dance"
+    },
+    {
+      "offsets": [
+        0,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "sad",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "name": "Umbra miss"
+    }
+  ],
+  "no_antialiasing": true,
+  "image": "characters/pixel/Umbra_pixel_ass_sets",
+  "position": [
+    300,
+    250
+  ],
+  "dance_every": 1,
+  "gameover_initial_sound": null,
+  "flags": {
+    "isPixel": true
+  },
+  "scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "umbra-pixel",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -12040097,
+  "camera_position": [
+    0,
+    0
+  ],
+  "gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": false
+}

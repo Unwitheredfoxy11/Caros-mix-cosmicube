@@ -232,7 +232,8 @@
 	"gameover_intial_sound": null,
 	"flags": {
 		"variants": {
-			"running": "umbra-danger"
+			"running": "umbra-danger",
+      "pixel": "umbra-pixel"
 		}
 	},
 	"scalableOffsets": true,
